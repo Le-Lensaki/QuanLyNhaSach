@@ -1,0 +1,5 @@
+1. query file QLNS trong SQL sever
+2. doi sever SQL thanh sever cua ban than trong programm
+3. chay
+admin là: lephuonghoangx4
+matkhau là: password

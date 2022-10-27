@@ -1,0 +1,63 @@
+C:\Users\Admin\source\repos\QuanLyNhaSach\QuanLyNhaSach\bin\Debug\net6.0-windows\QuanLyNhaSach.exe
+C:\Users\Admin\source\repos\QuanLyNhaSach\QuanLyNhaSach\bin\Debug\net6.0-windows\QuanLyNhaSach.deps.json
+C:\Users\Admin\source\repos\QuanLyNhaSach\QuanLyNhaSach\bin\Debug\net6.0-windows\QuanLyNhaSach.runtimeconfig.json
+C:\Users\Admin\source\repos\QuanLyNhaSach\QuanLyNhaSach\bin\Debug\net6.0-windows\QuanLyNhaSach.dll
+C:\Users\Admin\source\repos\QuanLyNhaSach\QuanLyNhaSach\bin\Debug\net6.0-windows\ref\QuanLyNhaSach.dll
+C:\Users\Admin\source\repos\QuanLyNhaSach\QuanLyNhaSach\bin\Debug\net6.0-windows\QuanLyNhaSach.pdb
+C:\Users\Admin\source\repos\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\net6.0-windows\QuanLyNhaSach.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\net6.0-windows\QuanLyNhaSach.Form1.resources
+C:\Users\Admin\source\repos\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\net6.0-windows\QuanLyNhaSach.Properties.Resources.resources
+C:\Users\Admin\source\repos\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\net6.0-windows\QuanLyNhaSach.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\net6.0-windows\QuanLyNhaSach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\net6.0-windows\QuanLyNhaSach.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\net6.0-windows\QuanLyNhaSach.AssemblyInfo.cs
+C:\Users\Admin\source\repos\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\net6.0-windows\QuanLyNhaSach.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\net6.0-windows\QuanLyNhaSach.dll
+C:\Users\Admin\source\repos\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\net6.0-windows\ref\QuanLyNhaSach.dll
+C:\Users\Admin\source\repos\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\net6.0-windows\QuanLyNhaSach.pdb
+C:\Users\Admin\source\repos\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\net6.0-windows\QuanLyNhaSach.genruntimeconfig.cache
+D:\Visual Studio\QuanLyNhaSach\QuanLyNhaSach\bin\Debug\net6.0-windows\QuanLyNhaSach.exe
+D:\Visual Studio\QuanLyNhaSach\QuanLyNhaSach\bin\Debug\net6.0-windows\QuanLyNhaSach.deps.json
+D:\Visual Studio\QuanLyNhaSach\QuanLyNhaSach\bin\Debug\net6.0-windows\QuanLyNhaSach.runtimeconfig.json
+D:\Visual Studio\QuanLyNhaSach\QuanLyNhaSach\bin\Debug\net6.0-windows\QuanLyNhaSach.dll
+D:\Visual Studio\QuanLyNhaSach\QuanLyNhaSach\bin\Debug\net6.0-windows\ref\QuanLyNhaSach.dll
+D:\Visual Studio\QuanLyNhaSach\QuanLyNhaSach\bin\Debug\net6.0-windows\QuanLyNhaSach.pdb
+D:\Visual Studio\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\net6.0-windows\QuanLyNhaSach.Properties.Resources.resources
+D:\Visual Studio\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\net6.0-windows\QuanLyNhaSach.csproj.GenerateResource.cache
+D:\Visual Studio\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\net6.0-windows\QuanLyNhaSach.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\net6.0-windows\QuanLyNhaSach.AssemblyInfoInputs.cache
+D:\Visual Studio\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\net6.0-windows\QuanLyNhaSach.AssemblyInfo.cs
+D:\Visual Studio\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\net6.0-windows\QuanLyNhaSach.csproj.CoreCompileInputs.cache
+D:\Visual Studio\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\net6.0-windows\QuanLyNhaSach.dll
+D:\Visual Studio\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\net6.0-windows\ref\QuanLyNhaSach.dll
+D:\Visual Studio\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\net6.0-windows\QuanLyNhaSach.pdb
+D:\Visual Studio\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\net6.0-windows\QuanLyNhaSach.genruntimeconfig.cache
+D:\Visual Studio\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\net6.0-windows\QuanLyNhaSach.FrmLogin.resources
+D:\Visual Studio\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\net6.0-windows\QuanLyNhaSach.Control.RJTextBox.resources
+D:\Visual Studio\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\net6.0-windows\QuanLyNhaSach.Control.RJComboBox.resources
+D:\Visual Studio\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\net6.0-windows\QuanLyNhaSach.Dash_board.resources
+D:\Visual Studio\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\net6.0-windows\QuanLyNhaSach.Control.UC_Tracuu.resources
+D:\Visual Studio\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\net6.0-windows\QuanLyNhaSach.FormDoimatkhau.resources
+D:\Visual Studio\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\net6.0-windows\QuanLyNhaSach.FormNhapthemthongtinkhachhang.resources
+D:\Visual Studio\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\net6.0-windows\QuanLyNhaSach.FormPhieuthutien.resources
+D:\Visual Studio\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\net6.0-windows\QuanLyNhaSach.FormThaydoiquydinh.resources
+D:\Visual Studio\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\net6.0-windows\QuanLyNhaSach.FormXacnhanhoadon.resources
+D:\Visual Studio\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\net6.0-windows\QuanLyNhaSach.csproj.AssemblyReference.cache
+D:\Visual Studio\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\net6.0-windows\QuanLyNhaSach.FormDangkitaikhoan.resources
+D:\Visual Studio\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\net6.0-windows\QuanLyNhaSach.FormDSHoadon.resources
+D:\Visual Studio\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\net6.0-windows\QuanLyNhaSach.FormDSPhieuthutien.resources
+D:\Visual Studio\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\net6.0-windows\QuanLyNhaSach.FormPhieunhapsach.resources
+D:\Visual Studio\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\net6.0-windows\QuanLyNhaSach.Control.UC_Hoadon.resources
+D:\Visual Studio\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\net6.0-windows\QuanLyNhaSach.Control.UC_Khachhang.resources
+D:\Visual Studio\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\net6.0-windows\QuanLyNhaSach.Control.UC_Baocao.resources
+D:\Visual Studio\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\net6.0-windows\QuanLyNhaSach.Control.UC_Nhansu.resources
+D:\Visual Studio\QuanLyNhaSach\QuanLyNhaSach\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\Visual Studio\QuanLyNhaSach\QuanLyNhaSach\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Visual Studio\QuanLyNhaSach\QuanLyNhaSach\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\Visual Studio\QuanLyNhaSach\QuanLyNhaSach\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\Visual Studio\QuanLyNhaSach\QuanLyNhaSach\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Visual Studio\QuanLyNhaSach\QuanLyNhaSach\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Visual Studio\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\net6.0-windows\QuanLyNhaSach.csproj.CopyComplete
+D:\Visual Studio\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\net6.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+D:\Visual Studio\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\net6.0-windows\QuanLyNhaSach.csproj.ResolveComReference.cache
+D:\Visual Studio\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\net6.0-windows\Interop.Microsoft.Office.Core.dll
